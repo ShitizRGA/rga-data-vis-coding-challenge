@@ -7,7 +7,7 @@ off-the-shelf libraries (at least as far as we know, please let us know if that'
 
 The Challenge
 ---
-![bar graph](./graph.svg)
+![bar graph](./graph.png)
 
 Your task is to create the above bar graph programatically and satisfy the following requirements:
 
